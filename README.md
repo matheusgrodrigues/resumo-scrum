@@ -203,6 +203,10 @@ Os riscos negativos podem afetar o prazo, custo ou escopo de um projeto de manei
 
 ### Papel do product owner na transformacao digital
 
+A Transformação digital é um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+
+É uma mudança estrutural nas organizações dando um papel essencial para a tecnologia
+
 ## Conceitos e atividades essenciais para o sucesso de um projeto agil
 
 ### Conceitos e planejamento de tarefas

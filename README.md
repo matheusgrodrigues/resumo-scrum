@@ -209,6 +209,28 @@ A Transformação digital é um processo no qual as empresas fazem uso da tecnol
 
 ## Conceitos e atividades essenciais para o sucesso de um projeto agil
 
-### Conceitos e planejamento de tarefas
+### Epico
+
+Um **Épico** é uma funcionalidade que deverá ser construida, um exemplo, é quando um projeto de sistema é concluído, isso significa que vários épicos foram finalizados.
+
+### Estorias
+
+**Estórias** é a descrição sobre oque deverá ser construido em determinado épico.
+
+### Tarefas
+
+As **tarefas** são os passo-a-passo com todas as tarefas que deverão ser concluída para finalizar uma estória. como pode exemplo: para gerenciar um usuário, deverá realizar as seguintes tarefas:
+  - Adicionar 
+  - Excluir
+  - Editar
+  - Atualizar
+
+### Criterios de aceite
+
+Critérios de aceite é uma lista de critérios que precisam ser alcançados para que a Estória (User story) atenda os requisitos do usuário e seja aceita pelo Product Owner.
+
+**Os critérios de aceitação tem o objetivo de:**
+  - Definir limites para as user stories.
+  - Ajudar o Product Owner (PO) a detalhar em alto nível o que é necessário para entregar valor ao cliente.
 
 ### Rotinas de um time agil

@@ -174,6 +174,30 @@ Não é obrigatório realizar uma Release Planning a cada finalização de uma s
 
 ### Analisando escopo e definindo prioridades
 
+O Product Backlog é composto por Épicos e Estórias
+
+- **Épicos (Epic)**: Incremento sem muito detalhamento, ajuda a te direcionar nos caminhos que deve seguir.
+- **Estória (User stories)**: Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+  - Em cada estória (user stories) poderá ter **N** tasks, que serão definidas pelo time de desenvolvimento.
+
+### Escrevendo uma estoria
+
+| Nome da estória | Descrição |
+| ----------- | --------- |
+| Descrição da Estória | (Eu, como, quero, quando) 
+| Regras de negócio | (Separar regras de front-end e backend)
+| Tela | Quais os objetivos/valor a estória precisa atingir 
+| Tagueamento | Como a estória será "Tagueada" para poder mensurar nos KPI 
+| Critérios de aceite | Qual o passo a passo de todos os caminhos felizes possíveis a estória deve cumprir para que ela seja considerada aceita 
+
+### Riscos Positivos
+
+Os riscos positivos são muito ignorados nos projetos, porém são um dos fatores de maior ganho no desenvolvimento de sistemas.
+
+### Riscos Negativos
+
+Os riscos negativos podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar inviabilizando-o
+
 ### Papel do product owner na transformacao digital
 
 ## Conceitos e atividades essenciais para o sucesso de um projeto agil

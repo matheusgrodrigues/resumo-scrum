@@ -244,6 +244,6 @@ Critérios de aceite é uma lista de critérios que precisam ser alcançados par
 - **Retro Meeting**: É uma reunião onde é discutido tarefas relacionado a todo o sprint.
 
 - **Refinamento**: É onde a equipe de desenvolvimento realiza diversas perguntas para poder alinhar e solucionar possíveis problemas na entrega da próxima sprint. 
-  - Neste cerimônia, é obrigatória a presença de todas os envolvidos no projeto.
+  - Nesta cerimônia, é obrigatória a presença de todas os envolvidos no projeto.
 
 - **Review**: É onde a equipe de desenvolvimento apresenta o trabalho desenvolvido na sprint anterior e pode tirar cada dúvida técnica referente a utilização desta entrega. Dúvidas relacionadas a negócios, devem ser respondidas pelo Product Owner, que deve estar presente nesta reunião.

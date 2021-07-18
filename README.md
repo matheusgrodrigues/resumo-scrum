@@ -237,3 +237,13 @@ Critérios de aceite é uma lista de critérios que precisam ser alcançados par
   - Ajudar o Product Owner (PO) a detalhar em alto nível o que é necessário para entregar valor ao cliente.
 
 ### Rotinas de um time agil
+
+- **Daily Meeting**: Deve ter um total de 15 min com a presença de todo o time de desenvolvimento, sendo que a presença do Product Owner e Scrum Master não é obrigatória.
+  - Na daily é respondida as seguintes perguntas: oque fiz ontem, oque farei hoje, e se possui algum impedimento.
+
+- **Retro Meeting**: É uma reunião onde é discutido tarefas relacionado a todo o sprint.
+
+- **Refinamento**: É onde a equipe de desenvolvimento realiza diversas perguntas para poder alinhar e solucionar possíveis problemas na entrega da próxima sprint. 
+  - Neste cerimônia, é obrigatória a presença de todas os envolvidos no projeto.
+
+- **Review**: É onde a equipe de desenvolvimento apresenta o trabalho desenvolvido na sprint anterior e pode tirar cada dúvida técnica referente a utilização desta entrega. Dúvidas relacionadas a negócios, devem ser respondidas pelo Product Owner, que deve estar presente nesta reunião.

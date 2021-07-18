@@ -20,7 +20,7 @@ Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este c
   - [Papel do Product Owner na transformação digital](#papel-do-product-owner-na-transformacao-digital)
 - [Conceitos e atividades essenciais para o sucesso de um projeto ágil](#conceitos-e-atividades-essenciais-para-o-sucesso-de-um-projeto-agil)
   - [Conceitos e planejamento de tarefas](#conceitos-e-planejamento-de-tarefas)
-  - [Rotina de um time ágil](#rotina-de-um-time-agil)
+  - [Rotinas de um time ágil](#rotinas-de-um-time-agil)
 
 ## Introducao a gestao de projetos
 
@@ -89,6 +89,27 @@ O **SCRUM** produz melhores resultados em equipes pequenas e multidisciplinares,
 
 ### Papeis e responsabilidades
 
+No total temos 3 papeis com suas respectivas responsabilides, são elas:
+
+- **Product Owner (PO)**
+  - Representante da área de negócios.
+  - PO é uma pessoa  e não um comitê (Grupo)
+  - Define as funcionalidades do software (Product Backlog)
+  - Prioriza as funcionalidades de acordo com o valor do negócio.
+  - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário.
+
+- **Scrum Master (SM)**
+  - Garantir o uso correto do SCRUM
+  - Scrum Master não é Gerente de projetos.
+  - Age como facilitador.
+  - Auxilia o Product Owner no planejamento e estimativas do backlog.
+  - Auxilia a equipe a remover impedimentos.
+  - Treina o time em autogerenciamento e interdisciplinaridade.
+
+- **Time de desenvolvimento**
+  - Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+  - Composto por 3 a 9 pessoas
+
 ### Cerimonias do SCRUM
 
 ### Gestao de projetos tradicional x agil
@@ -105,4 +126,4 @@ O **SCRUM** produz melhores resultados em equipes pequenas e multidisciplinares,
 
 ### Conceitos e planejamento de tarefas
 
-### Rotina de um time agil
+### Rotinas de um time agil

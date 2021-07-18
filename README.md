@@ -9,6 +9,8 @@ Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este c
   - [Agil](#agil)
   - [Comparativo Tradicional x Ágil](#comparativo-tradicional-x-agil)
 - [Introdução ao SCRUM](#introducao-ao-scrum)
+  - [Razões para adotar o SCRUM](#razoes-para-adotar-o-scrum)
+  - [Características do time SCRUM](#caracteristicas-do-time-scrum)
   - [Papéis e responsabilidades de cada um do time](#papeis-e-responsabilidades)
   - [Cerimônias do Scrum](#cerimonias-do-scrum)
   - [Gestão de projetos tradicional x ágil](#gestao-de-projetos-tradicional-x-agil)
@@ -58,7 +60,32 @@ Em projetos tradicionais (**cascata**), você corre o risco de descobrir que est
 
 ## Introducao ao SCRUM
 
+O **SCRUM** é um dos frameworks utilizados para aplicar as metodologias ágeis, existem varios outros como o XP, Kanban etc...
 
+O **SCRUM** produz melhores resultados em equipes pequenas e multidisciplinares, e segue os 3 seguintes pilares:
+
+- **Transparência**
+  - Conversar mais e escrever menos
+  - Demonstrar o software constantemente aos usuários e obter feedbacks constantes;
+- **Adaptação**: 
+  - Requisitos mudam ao longo do tempo
+- **Inspeção**
+  - Aprender progressivamente com o uso do software.
+
+### Razoes para adotar o SCRUM
+
+- Desenvolvido e entregue em partes menos (2 a 4 semanas), com constante feedback dos usuários;
+- Melhor gerenciamento de riscos; (Redução de incertezas)
+- Comprometimento, motivação e transparência da equipe. (Daily Meeting).
+- Maior valor para o negócio; (Priorização do Backlog)
+- Usuários envolvidos durante todo o ciclo.
+- Aplicação das lições aprendidas. (melhoria contínua).
+
+### Caracteristicas do time SCRUM
+
+- Equipes capazes de se auto-organizarem.
+- As tarefas são do time e todos são responsáveis.
+- Forte comprometimento com os resultados.
 
 ### Papeis e responsabilidades
 

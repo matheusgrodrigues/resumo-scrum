@@ -1,4 +1,4 @@
-# Resumo sobre a metodologia ágil SCRUM
+# Resumo sobre a Metodologia Ágil SCRUM
 
 Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este conteúdo é o resultado da conclusão do curso **Projetos ágeis com SCRUM** dos professores Thiago Sano e Diego Pereira da [Digital Innovation One](digitalinnovation.one).
 

@@ -1,6 +1,6 @@
 # Resumo sobre a metodologia ágil SCRUM
 
-Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este conteúdo é o resultado da conclusão do curso **Projetos ágeis com SCRUM** do professor Thiago Sano, da [Digital Innovation One](digitalinnovation.one), pesquisas realizadas no youtube e posts de especialistas na área.
+Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este conteúdo é o resultado da conclusão do curso **Projetos ágeis com SCRUM** dos professores Thiago Sano e Diego Pereira da [Digital Innovation One](digitalinnovation.one), pesquisas realizadas no youtube e posts de especialistas na área.
 
 ## Sumário
 
@@ -96,7 +96,7 @@ No total temos 3 papeis com suas respectivas responsabilides, são elas:
 
 - **Product Owner (PO)**
   - Representante da área de negócios.
-  - PO é uma pessoa  e não um comitê (Grupo)
+  - PO é uma pessoa e não um comitê (Grupo)
   - Define as funcionalidades do software (Product Backlog)
   - Prioriza as funcionalidades de acordo com o valor do negócio.
   - Garante que o time de desenvolvimento entenda os itens do backlog no nível necessário.
@@ -146,11 +146,30 @@ Nas outras 4 horas, o time de desenvolvimento define **como fazer** e quebram as
 - **Retrospectiva da Sprint**
   - Esta reunião ocorre no ultimo dia da sprint, onde é discutido os erros, acertos e aprendizados que a equipe teve no decorrer do desenvolvimento desta spint.
 
-### Gestao de projetos tradicional x agil
-
-## Fundamentos de um projeto agil
-
 ### Papeis e responsabilidades do product owner
+
+O Product Owner (PO), é o responsável por organizar todo o **Product Backlog**, e apresentar para a equipe de desenvolvimento o que deve ser desenvolvido. 
+
+- **Refining**
+  - O Product Owner (PO), apresentar as funcionalidades mais importantes do backlog para a equipe de desenvolvimento
+
+- **Planning**
+  - É a organização das funcionalidades apresentadas pelo Product Owner (PO) em Sprints, cada sprint deverá conter (Histórias) que é a descrição de todas as funcionalidades que serão desenvolvidas.
+  - É nesta etapa que o time define o nível de complexidade desta sprint, e poderá alterar a ordem ou prazo dependendo da complexidade.
+
+### Sprint backlog
+
+É a lista de sprints que serão desenvolvidas, é onde o Product Owner (PO), define a lista de Sprints prioritárias para inicio do desenvolvimento.
+
+### Release Planning
+
+É o lançamento de uma nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir o novo produto ou modificação para que as pessoas que o utilizem.
+
+Não é obrigatório realizar uma Release Planning a cada finalização de uma sprint, porém, caso acumule muitas sprints para serem lançadas, poderá ocorrer problemas de merge de código fonte.
+
+**Existem 2 tipos de Release Plannig**:
+- Release Planning de Múltiplas Squads (Varios lançamentos de múltiplas equipes em um projeto)
+- Release Planning de Projeto (Lançamento em um unico projeto)
 
 ### Analisando escopo e definindo prioridades
 

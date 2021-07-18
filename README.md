@@ -1,6 +1,6 @@
 # Resumo sobre a metodologia ágil SCRUM
 
-Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este conteúdo é o resultado da conclusão do curso **Projetos ágeis com SCRUM** dos professores Thiago Sano e Diego Pereira da [Digital Innovation One](digitalinnovation.one), pesquisas realizadas no youtube e posts de especialistas na área.
+Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este conteúdo é o resultado da conclusão do curso **Projetos ágeis com SCRUM** dos professores Thiago Sano e Diego Pereira da [Digital Innovation One](digitalinnovation.one).
 
 ## Sumário
 
@@ -17,8 +17,9 @@ Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este c
     - [Sprint](#sprint)
     - [Composição de uma sprint](#composicao-de-uma-sprint)
   - [Gestão de projetos tradicional x ágil](#gestao-de-projetos-tradicional-x-agil)
-- [Fundamentos de um projeto ágil](#fundamentos-de-um-projeto-agil)
-  - [Papéis e responsabilidades do Product Owner](#papeis-e-responsabilidades-do-product-owner)
+- [Papéis e responsabilidades do Product Owner](#papeis-e-responsabilidades-do-product-owner)
+  - [Sprint backlog](#sprint-backlog)
+  - [Release Planning](#release-planning)
   - [Analisando escopo de definindo prioridades](#analisando-escopo-e-definindo-prioridades)
   - [Papel do Product Owner na transformação digital](#papel-do-product-owner-na-transformacao-digital)
 - [Conceitos e atividades essenciais para o sucesso de um projeto ágil](#conceitos-e-atividades-essenciais-para-o-sucesso-de-um-projeto-agil)

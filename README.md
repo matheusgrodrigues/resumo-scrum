@@ -26,8 +26,11 @@ Este repositório possui um breve resumo sobre **o que é o SCRUM**. Todo este c
     - [Riscos Negativos](#riscos-negativos)
   - [Papel do Product Owner na transformação digital](#papel-do-product-owner-na-transformacao-digital)
 - [Conceitos e atividades essenciais para o sucesso de um projeto ágil](#conceitos-e-atividades-essenciais-para-o-sucesso-de-um-projeto-agil)
-  - [Conceitos e planejamento de tarefas](#conceitos-e-planejamento-de-tarefas)
-  - [Rotinas de um time ágil](#rotinas-de-um-time-agil)
+  - [Épico](#epico)
+  - [Estorias](#estorias)
+  - [Tarefas](#tarefas)
+  - [Critérios de aceite](#criterios-de-aceite)
+- [Rotinas de um time ágil](#rotinas-de-um-time-agil)
 
 ## Introducao a gestao de projetos
 

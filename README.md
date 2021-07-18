@@ -112,6 +112,37 @@ No total temos 3 papeis com suas respectivas responsabilides, são elas:
 
 ### Cerimonias do SCRUM
 
+#### Time Box
+
+Tempo máximo definido para fazer uma cerimônia ou todo o desenvolvimento de uma sprint
+
+#### Sprint
+
+Sprint (Corrida, arrancada), é o principal evento do scrum, com duração máxima de 30 dias corridos.
+
+#### Composicao de uma sprint
+
+- **Planejamento da Sprint**
+  - O planejamento de uma sprint é composto pelos seguintes participantes:
+    - Product Owner
+    - Scrum Master
+    - Time de Desenvolvimento
+
+Geralmente, no planejamento de uma sprint de 30 dias, as reuniões levam 8h, sendo que nas 4 primeiras horas:
+
+- O Product Owner (PO) define **o quê fazer**, ou seja, quais funcionalidades deveram ser desenvolvidas, e é também onde o time de **Desenvolvimento** tira todas as suas dúvidas referentes ao negócio.
+
+Nas outras 4 horas, o time de desenvolvimento define **como fazer** e quebram as funcionalidades e definem os prazos de entrega de cada atividade.
+
+- **Reuniôes diárias (Daily Meeting)**
+  - Depois de realizado o planejamento da sprint, o time de desenvolvimento realiza reuniôes diárias de 15 minutos, onde é discutido oque é para fazer, oque está sendo feito, e o que foi concluído e se possui algum impedimento.
+  - Nessas reunioes, participam o Product Owner (PO), Time de desenvolvimento e o Scrum Master.    
+- **Revisão da Sprint (Review)**
+  - No último dia da sprint, ocorre uma reunião onde o time de desenvolvimento apresenta para o **Product Owner (PO)** o trabalho feito.
+
+- **Retrospectiva da Sprint**
+  - Esta reunião ocorre no ultimo dia da sprint, onde é discutido os erros, acertos e aprendizados que a equipe teve no decorrer do desenvolvimento desta spint.
+
 ### Gestao de projetos tradicional x agil
 
 ## Fundamentos de um projeto agil
